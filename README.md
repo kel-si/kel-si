@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kel-si
-- 👀 I’m interested in learning web development.
-- 🌱 I’m currently learning JavaScript, HTML, and CSS.
+- 👀 I’m interested in learning, learning, learning.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on coding challenges.
 - 📫 How to reach me ... 
 
