@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kel-si
 - 👀 I’m interested in learning, learning, learning.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on coding challenges.
+- 🌱 I’m currently learning CS50!
 - 📫 How to reach me: olstadkelsi@gmail.com 
 
 <!---
